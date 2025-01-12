@@ -1,0 +1,11 @@
+{
+  "name": "mediview",
+  "version": "1.0.0",
+  "description": "This is an Application for Providing users with the info about the prescribed medicines and the medication provided by the doctor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil",
+  "license": "ISC"
+}
